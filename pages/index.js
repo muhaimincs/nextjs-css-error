@@ -1,3 +1,5 @@
+import "../styles/index.scss";
+
 export default () => (
   <div className="hello">
     <p>Hello World</p>
@@ -14,4 +16,4 @@ export default () => (
       }
     `}</style>
   </div>
-)
+);
